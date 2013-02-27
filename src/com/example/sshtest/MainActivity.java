@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
 	private String user = "root";
 	private String host = "******";  
 	private int port = 22;
-	private String pass = "Srikant2321@";
+	private String pass = "***";
 	private Button mConnect;
 	private Button mCommand;
 	private Session session;
